@@ -15,7 +15,6 @@ public class LazyPowerset<T> implements Iterable<Set<T>> {
 
     @Override
     public Iterator<Set<T>> iterator() {
-        // TODO Auto-generated method stub
         return iterator;
     }
 
